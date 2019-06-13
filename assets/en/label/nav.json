@@ -1,0 +1,11 @@
+{
+  "badge": "Badge",
+  "cards": "Portfolio",
+  "stats": "Stats",
+  "notFoundMsg": "Oops, we do not have data for this name, please",
+  "notFoundAct": "Try another name",
+  "footer": {
+    "claim": "All rights reserved for the page content author.",
+    "power": "Powered by Angular & Github.com"
+  }
+}
